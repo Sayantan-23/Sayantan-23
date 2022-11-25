@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey My Name is Sayantan Ghosh, I'm a student of Techno Main Salt Lake(MCA).I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+Hey My Name is Sayantan Ghosh, I'm a student of Techno Main Salt Lake(MCA). I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
 
 <!---
 Sayantan-23/Sayantan-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
