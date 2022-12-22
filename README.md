@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Sayantan!](https://github.com/parth-27) !!
+## Hey 👋, I'm [Sayantan!](https://github.com/Sayantan-23)!!
 
 </h2>
 
