@@ -1,61 +1,47 @@
-## Hey 👋, I'm [Sayantan!](https://github.com/Sayantan-23)!!
+<div align="center">
 
-</h2>
+## Hey 👋, I'm [Sayantan!](https://github.com/Sayantan-23)!!
+  
+</div>
+
 
 <hr/>
 
-## About Me
+## 👨🏻‍💻 &nbsp;About Me
 
-Hey My Name is Sayantan Ghosh, I'm a student of Techno Main Salt Lake(MCA). I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+- 💡 &nbsp;I like to explore new technologies.
+- 🎓 &nbsp;I'm a student of Techno Main Salt Lake(MCA).
+- 🌱 &nbsp;I'm currently learning *full stack web development*.
+- ✍️ &nbsp;All my articles are available at [MyProfile](https://sayantan23.hashnode.dev/).
+- ❤️ &nbsp;My favorite language: `JavaScript`.
+- ✉️ &nbsp;You can email me at sayantan358@gmail.com.
 
 <!---
 Sayantan-23/Sayantan-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
+## 🖥️ &nbsp;Tech Stack
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Python</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    <valign="top">
-      <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+<p>
+  
+<img height="48px" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"> &nbsp;&nbsp;
+<img height="48px" src="https://user-images.githubusercontent.com/110087385/210600757-c5cd4168-1913-4cb9-8c09-1d43f9a7565b.png"> &nbsp;&nbsp;
+<img height="48px" src="https://user-images.githubusercontent.com/110087385/210599105-c62857b2-9401-4ecf-a0a7-f15c8e917f6f.jpg"> &nbsp;&nbsp;
+<img height="48px" src="https://user-images.githubusercontent.com/110087385/210601324-68bb405e-d241-4554-99ab-2013c44310df.png"> &nbsp;&nbsp;
+<img height="48px" src="https://user-images.githubusercontent.com/110087385/210601101-f9148e6f-5862-49e8-acb9-4b4b6aaa2674.png"> &nbsp;&nbsp;
+<img height="48px" src="https://user-images.githubusercontent.com/110087385/210602668-e370882b-dadd-4dcc-9404-feafe5e4293c.png"> &nbsp;&nbsp;
+<img height="48px" src="https://user-images.githubusercontent.com/110087385/210602076-ce668195-96b0-4ea6-a1ca-6eac0ac4865f.svg"> &nbsp;&nbsp;
+<img height="48px" src="https://user-images.githubusercontent.com/110087385/210603643-e581d4a4-9ecc-41a3-bf6a-e05bc6123496.png"> &nbsp;&nbsp;
+
+  
+</p>
+
+</div>
+
 <hr>
+
+## 💬 &nbsp;Connect With Me
+
+<a href="https://www.linkedin.com/in/sayantan-ghosh-103740250/"><img height="32px" src="https://user-images.githubusercontent.com/110087385/210606218-1afd413e-7c22-46e7-9a6e-d6198a643fb4.png"></a>
